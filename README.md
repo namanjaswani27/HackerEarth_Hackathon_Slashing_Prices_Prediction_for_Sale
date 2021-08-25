@@ -1,5 +1,5 @@
 # HackerEarth_Hackathon_Slashing_Prices_Prediction_for_Sale
->Secured `5th` Rank in this Competition
+>Secured `5th` Rank in this [Competition](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-the-lowest-price/)
 
 # Problem Statement
 A leading global leader of e-commerce has over 150 million paid subscription users. One of the many perks of the subscription is the privilege of buying products at lower prices. For an upcoming sale, the organization has decided to promote local artisans and their products, to help them through these tough times. However, slashed prices may impact local artists.
@@ -16,8 +16,9 @@ To not let discounts affect local artists, the company has decided to determine 
                                 
                                 `Light Gradient Boosting Model`,
                                 
-                                `Gradient Boosting Model`}
+                                `Gradient Boosting Model`
                                 
+                                }
 - [Didn't work] `Pseudo Labeling` on Test Set
 - [Didn't work] Label Encoding of categorical features
 
